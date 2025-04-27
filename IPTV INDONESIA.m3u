@@ -152,7 +152,7 @@ https://ythls-v2.onrender.com/channel/UC5v3gjCQLFeg8eBXO7ShdpQ.m3u8
 #EXTINF:0, BABY FIRST
 #EXTVLCOPT:network-caching=1000
 https://i.mjh.nz/SamsungTVPlus/INBC280001662.m3u8
-#EXTINF:0, Baby Shark TV ð#EXTVLCOPT:network-caching=1000
+#EXTINF:0, Baby Shark TV Ã°#EXTVLCOPT:network-caching=1000
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60faffc3fbbc120007fc4376/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=949fff44-b258-11ee-9039-67540c86de73&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=4ecdfec3-b265-4c95-95f0-dffffa891a9f&userId=&serverSideAds=true
 #EXTINF:0, BABY TV
 #EXTVLCOPT:network-caching=1000
@@ -321,7 +321,7 @@ https://ythls-v2.onrender.com/channel/UCUaZwCnn6Z-16BmkKngSs0g.m3u8
 #EXTINF:0, TOONZKIDS
 #EXTVLCOPT:network-caching=1000
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/toonzkids/master.m3u8
-#EXTINF:0, Transformers TV ð#EXTVLCOPT:network-caching=1000
+#EXTINF:0, Transformers TV Ã°#EXTVLCOPT:network-caching=1000
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60fb053712f22a0007ff14d2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=94a002fa-b258-11ee-a982-67540c86de73&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dc17f96c-eab5-42c7-bb41-6e9a3c683eeb&userId=&serverSideAds=true
 #EXTINF:0, ZOO MOO
 #EXTVLCOPT:network-caching=1000
@@ -725,7 +725,7 @@ https://cors-proxy.pulsesoftware.com/https://cdn08jtedge.indihometv.com/dassdvr/
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:network-caching=1000
 https://i.mjh.nz/SamsungTVPlus/USBC6000108Z.m3u8
-#EXTINF:0, BON Appétit #EXTVLCOPT:network-caching=1000
+#EXTINF:0, BON AppÃ©tit #EXTVLCOPT:network-caching=1000
 https://i.mjh.nz/SamsungTVPlus/USBC44000226R.m3u8
 #EXTINF:0, EAT&GO #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:network-caching=1000
@@ -1461,7 +1461,7 @@ https://marine2.miplay.cl/kpop/playlist.m3u8
 #EXTINF:0,Persiana Korea
 #EXTVLCOPT:network-caching=1000
 http://51.210.199.14/hls/stream.m3u8
-#EXTINF:0,Retro tv ð#EXTVLCOPT:network-caching=1000
+#EXTINF:0,Retro tv Ã°#EXTVLCOPT:network-caching=1000
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8?wmsAuthSign=InspirationLinks
 #EXTINF:0,9XM
 #EXTVLCOPT:network-caching=1000
@@ -4106,15 +4106,15 @@ https://cors-proxy.pulsesoftware.com/https://ctrl.laotv.la/live/Bsport1/index.m3
 https://cors-proxy.pulsesoftware.com/https://ctrl.laotv.la/live/Bsport2/index.m3u8
 #EXTINF:0,  BEIN SPORTS #EXTVLCOPT:network-caching=1000
 https://cors-proxy.elfsight.com/https://linear-novi.stvacdn.spectrum.com/LIVE/1144/dash/cenc/BEIN1HD_04735/manifest.mpd
-#EXTINF:0,  BEIN SPORTS En Español #EXTVLCOPT:network-caching=1000
+#EXTINF:0,  BEIN SPORTS En EspaÃ±ol #EXTVLCOPT:network-caching=1000
 https://cors-proxy.elfsight.com/https://linear-novi.stvacdn.spectrum.com/LIVE/1147/dash/cenc/BEIN2HD_04736/manifest.mpd
 #EXTINF:0, BEIN SPORTS XTRA #EXTVLCOPT:network-caching=1000
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01334-beinsportsllc-beinxtra-vidaa/playlist.m3u8
-#EXTINF:0, BEIN SPORTS XTRA En Español #EXTVLCOPT:network-caching=1000
+#EXTINF:0, BEIN SPORTS XTRA En EspaÃ±ol #EXTVLCOPT:network-caching=1000
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60492fdd9989d30007ccd30a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:0, BEIN SPORTS XTRA En Español #EXTVLCOPT:network-caching=1000
+#EXTINF:0, BEIN SPORTS XTRA En EspaÃ±ol #EXTVLCOPT:network-caching=1000
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01334-beinsportsllc-beinxtraespanol-vidaa/playlist.m3u8
-#EXTINF:0, BEIN SPORTS XTRA En Español #EXTVLCOPT:network-caching=1000
+#EXTINF:0, BEIN SPORTS XTRA En EspaÃ±ol #EXTVLCOPT:network-caching=1000
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
 #EXTINF:0, Betis TV #EXTVLCOPT:network-caching=1000
 https://streamer.zapitv.com/betis/index.mpd
@@ -4577,7 +4577,7 @@ https://bkm.beetv.kz/btv/live/hls/000004499.m3u8
 https://bkm.beetv.kz/btv/live/hls/000006899.m3u8
 #EXTINF:0, SETANTA SPORT 1 #EXTVLCOPT:network-caching=1000
 https://tr.live.cdn.cgates.lt/live/dash/561002/index.mpd
-#EXTINF:0, Sevilla FC Televisión #EXTVLCOPT:network-caching=1000
+#EXTINF:0, Sevilla FC TelevisiÃ³n #EXTVLCOPT:network-caching=1000
 https://streamer.zapitv.com/sevillafc/index.mpd
 #EXTINF:0, Sky SPORT ARENA #EXTVLCOPT:network-caching=1000
 https://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/31024/FHD/skysportarena/master.mpd
